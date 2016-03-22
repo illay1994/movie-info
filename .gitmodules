@@ -1,0 +1,6 @@
+[submodule "movie-info-backend"]
+	path = movie-info-backend
+	url = git@github.com:illay1994/movie-info-backend.git
+[submodule "movie-info-tools"]
+	path = movie-info-tools
+	url = git@github.com:illay1994/movie-info-tools.git
